@@ -1,0 +1,2 @@
+E:\gfx programming\Personal Project\RTWeekend\x64\Debug\RTWeekend.exe
+E:\gfx programming\Personal Project\RTWeekend\x64\Debug\RTWeekend.pdb
